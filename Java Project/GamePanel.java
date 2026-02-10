@@ -12,7 +12,7 @@ public class GamePanel extends JPanel
     static final int HEIGHT = 600;
 
     ArrayList<Point> snake = new ArrayList<>();
-    ArrayList<Point> apples = new ArrayList<>(); // <-- BUG source
+    ArrayList<Point> apples = new ArrayList<>();
     Random rand = new Random();
 
     char direction = 'R';
@@ -56,7 +56,7 @@ public class GamePanel extends JPanel
         for (Point a : apples) {
             if (newHead.equals(a)) {
                 ateApple = true;
-                spawnApple(); // 🐞 apple never removed
+                spawnApple();
             }
         }
 

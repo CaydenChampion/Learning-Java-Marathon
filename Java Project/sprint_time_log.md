@@ -20,11 +20,11 @@ The expected minimum amount of time each Sprint for each category is as follows:
 
 |Date      |Start Time|Category|Description                                 |Total Minutes|
 |----------|----------|:------:|--------------------------------------------|:-----------:|
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
+| 1/28/26  |    6pm   |    IM  | Downloded java JDK and software            |    3hrs     |
+| 1/29/26  |    6pm   | TP/IM  |Added pictures to website and di hello world|  2hrs/2hrs   |
+| 1/30/26  |   6pm    |   IM   |Started working on a snake game remake in java |   5hrs      |
+| 1/30/26  |  12am    |   TP   |        trying to learn about HTML          |      2hrs    |
+|1/26/26-2/6/26|10:15 |  MTG  |  In class meetings where we work together   |   6hrs    |
 |          |          |        |                                            |             |
 
 _Note: Add more rows as needed._
@@ -33,7 +33,7 @@ _Note: Add more rows as needed._
 
 |Categroy                       |Total Time (Hours:Minutes)|
 |-------------------------------|:------------------------:|
-|IM - Individual Module         |                          |
-|TP - Team Project              |                          |
-|MTG - Class Meetings           |                          |
+|IM - Individual Module         |          10hrs           |
+|TP - Team Project              |         4hrs             |
+|MTG - Class Meetings           |          6hrs            |
 |**TOTAL**                      |                          |
